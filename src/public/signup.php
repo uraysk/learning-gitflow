@@ -2,6 +2,7 @@
   <div>
     <div>
       <h2>会員登録</h2>
+      <p>- Sing up to continue -</p>
       <form action="./signup_complete.php" method="POST">
         <p><input placeholder="User name" type=“text” name="userName" required value=""></p>
         <p><input placeholder="Email" type=“mail” name="email" required value=""></p>
